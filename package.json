@@ -1,0 +1,12 @@
+{
+  "name": "mobagame",
+  "version": "1.0.0",
+  "description": "Mobil MOBA oyunu prototipi - 5 kahraman, kule/minyon ekonomisi, magaza",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
